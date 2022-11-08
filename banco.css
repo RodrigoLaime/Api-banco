@@ -93,7 +93,7 @@ nav {
   width: 150px;
   height: 150px;
   overflow: hidden;
-  text-align: center;
+  text-align: left;
   background-color: #222f35;
   border: 2px solid white;
   box-shadow: 3px 3px 3px rgba(0, 0, 9, 9);
