@@ -91,7 +91,7 @@ main {
 nav {
   /* ocultar barra de navegacion padre */
   width: 150px;
-  height: 200px;
+  height: 150px;
   overflow: hidden;
   text-align: center;
   background-color: #222f35;
